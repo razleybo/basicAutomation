@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//COMEET.CO//mxm.dk//
+METHOD:REQUEST
+BEGIN:VEVENT
+SUMMARY:Video Interview Scheduled -  Raz Leybowitch / Qwilt
+DTSTART;VALUE=DATE-TIME:20200914T070000Z
+DTEND;VALUE=DATE-TIME:20200914T083000Z
+DTSTAMP;VALUE=DATE-TIME:20200910T143352Z
+UID:OC0x179LoER0x15a24LoAC0xaf62b3LoSC0x865c921L@interview.comeet.co
+SEQUENCE:207045232
+ATTENDEE;CN="Raz Leybowitch";ROLE=REQ-PARTICIPANT;RSVP=TRUE:MAILTO:raz.ley
+ bowitch@gmail.com
+CLASS:PUBLIC
+DESCRIPTION:Reply above to continue the conversation with Shai-Lee Shilo.\
+ nSent by Comeet on behalf of Qwilt\nHi\nRaz\,\nYou are scheduled to have a
+  video interview with\nShira Kadmon\, Doron Lavi\non\nMonday\, September 1
+ 4th at 10:00am IDT.\nShira\, Doron\nwill contact you via Zoom. The intervi
+ ew should last about one\nhour and 30 minutes.\nPlease make sure the audio
+  and video are working properly on your computer.\nZoom allows connecting 
+ audio using your computer\nor your phone. It is\npreferable if you can con
+ nect the audio via your phone.\nHere's the Zoom link:\nhttps://qwilt.zoom.
+ us/j/92541068815\nIn case you're worried your internet network will be uns
+ table - you dial-in\nand use one of the following phone numbers-  \n[+972 
+ 55 330 1762](http://tel:+972553301762)\nor\n[+972 3 978\n6688](http://tel:
+ +97239786688).  \nFor more details or if you need to change the time of yo
+ ur interview\, please\nreply to this email.\nYou are invited to visit our 
+ website at Qwilt.com or watch a video about our\nContent Delivery Sharing 
+ solution:\n<https://vimeo.com/339430177>  \nYou might want to check the fo
+ llowing videos and get a virtual visit at our\noffice full while it of peo
+ ple-\n<https://drive.google.com/file/d/1SdLyTRNeft-xI-\nNH0uAxFGcwzdSwxeR1
+ /view?usp=sharing>\n[https://www.youtube.com/watch?time_continue=8&v=cnvRx
+ mQY6p4&feature=emb_logo]\n(https://www.youtube.com/watch?time_continue=8&v
+ =cnvRxmQY6p4&feature=emb_logo)  \nGood luck\,\nQwilt Hiring team\n
+LAST-MODIFIED;VALUE=DATE-TIME:20200910T143352Z
+ORGANIZER;CN="Qwilt Recruiting";ROLE=CHAIR:MAILTO:scheduler@comeet-notific
+ ations.com
+PRIORITY:5
+X-MICROSOFT-CDO-OWNERAPPTID:1828927647
+END:VEVENT
+END:VCALENDAR
